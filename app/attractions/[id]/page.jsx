@@ -48,7 +48,7 @@ export default function Page() {
 
   }, [id])
 
-  if (loading) return <h1>Loading Na kUb...</h1>
+  if (loading) return <h1>Load...</h1>
 
   return (
     <div>
